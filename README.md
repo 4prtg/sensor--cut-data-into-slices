@@ -1,2 +1,2 @@
-# sensor--cut-data-into-slices
-Cut Data into Slices
+# Cut Data into Slices
+(JSON) Script Advanced sensor for PRTG Network Monitor
